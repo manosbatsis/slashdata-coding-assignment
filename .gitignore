@@ -42,5 +42,4 @@ jspm_packages
 # Lib
 lib
 /.idea/
-/package-lock.json
 /node_modules/
